@@ -64,6 +64,4 @@ endmodule
 **RESULT**
 ```
 Thus, the 4-BIT-RIPPLE-COUNTER successfully designed and verified using Quartus software.
-
-
-**RESULTS**
+```
